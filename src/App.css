@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.bg-image {
+  background: url('/images/Background.png') center center/cover no-repeat; 
+  background-attachment: fixed;
+  min-height: 100vh;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+
+}
+
+.home,
+.resume,
+.products,
+.sign-up {
+  /* background: url('/images/Background.png') center center/cover no-repeat; 
+  background-attachment: fixed;
+  min-height: 100vh;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
+
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+
+
+
+
+}
+
+.services {
+  background-image: url('/images/img-2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.portfolio {
+  /* background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat; */
+  color: #fff;
+  /* font-size: 100px; */
+}
+
+.about-me {
+  background-image: url('/images/img-8.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.inner-body-container {
+  color: #fff;
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
