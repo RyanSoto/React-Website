@@ -1,7 +1,8 @@
 {
-  "name": "navbar-dropdown-v1",
-  "version": "0.1.0",
-  "private": true,
+  "name": "Ryan-Soto",
+  "homepage": "http://ryan-soto.com",
+  "version": "1.0.0",
+  "description": "Ryan Soto's Website",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

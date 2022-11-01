@@ -20,7 +20,7 @@ function Cards() {
               src='images/PokeDash.png'
               text='Pokemon style delivery game with my interactive resume. '
               label='PokeDasher'
-              path='http://www.ryan-soto.com/'
+              path='http://www.ryan-soto.com/PokeDasher/'
             />
             <CardItem
               src='images/Github.png'

@@ -6,6 +6,7 @@ export default function AboutMe() {
     <div className="bg-image">
       <div className="container">
         <div className="inner-body-container ">
+          <br></br>
           <h1>About me</h1>
           <div className="about-me-body">
             <h2> Summary</h2>
